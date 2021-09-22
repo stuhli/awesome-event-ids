@@ -32,9 +32,9 @@ In addition, it is impossible to remember them all, given the huge number of eve
 ### Event ID configuration and monitoring suggestions
 
 * PowerShell
-    * [Script block logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.1#viewing-the-powershell-event-log-entries-on-windows) - How to activate
+    * [Script block logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.1#viewing-the-powershell-event-log-entries-on-windows) - Enable 4104
 * Security Auditing
-    * [Command line process auditing](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/command-line-process-auditing#configuration) - How to activate
+    * [Command line process auditing](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/command-line-process-auditing#configuration) - Enable 4688 featuring command line
     * [Events to monitor](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) - Official resource
 * Sysmon
     * [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing
@@ -42,5 +42,5 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 ### Event ID attack results
 
-* [EVTX Attack Samples by sbousseaden](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
-* [Tool Analysis Result Sheet by JPCERT](https://jpcertcc.github.io/ToolAnalysisResultSheet/#)
+* [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Repository with samples by sbousseaden
+* [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#) - Interactive sheet by JPCERT
