@@ -8,20 +8,20 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 ## Contents
 
-- [Event ID search engines](#event-id-search-engines)
-- [Event ID collections](#event-id-collections)
+- [Event ID databases](#event-id-databases)
+- [Event ID documentation](#event-id-documentation)
 - [Event ID configuration and monitoring suggestions](#event-id-configuration-and-monitoring-suggestions)
 - [Event ID attack results](#event-id-attack-results)
 
 ## Ressources
 
-### Event ID search engines
+### Event ID databases
 
-* [EventID.net](http://www.eventid.net/search.asp)
-* [MyEventlog.com](https://www.myeventlog.com/)
-* [EventTracker Knowledgebase](https://kb.eventtracker.com/)
+* [EventID.net](http://www.eventid.net/search.asp) - Database
+* [MyEventlog.com](https://www.myeventlog.com/) - Database
+* [EventTracker Knowledgebase](https://kb.eventtracker.com/) - Database
 
-### Event ID collections
+### Event ID documentation
 
 * [Kaspersky Security for Microsoft Exchange](https://support.kaspersky.com/KS4Exchange/9.4/en-US/127197.htm) - Official resource
 * [Microsoft Defender Antivirus](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-event-ids) - Official resource
