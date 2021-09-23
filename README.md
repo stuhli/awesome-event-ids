@@ -1,6 +1,6 @@
 # Awesome Event IDs
 
-> Collection of Event ID ressources useful for Digital Forensics and Incident Response
+> Collection of Event ID resources useful for Digital Forensics and Incident Response
 
 In incidents, analysts are often faced with the problem of interpreting unknown event IDs.
 The event itself does not always contain the desired information.
@@ -13,7 +13,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 - [Event ID configuration and monitoring suggestions](#event-id-configuration-and-monitoring-suggestions)
 - [Event ID analysis](#event-id-analysis)
 
-## Ressources
+## Resources
 
 ### Event ID databases
 
@@ -38,7 +38,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
     * [Events to monitor](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) - Official resource
 * Sysmon
     * [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing
-    * [Configuration by olafhartong](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+    * [Configuration by olafhartong](https://github.com/olafhartong/sysmon-modular) - A repository of Sysmon configuration modules
 
 ### Event ID analysis
 
@@ -46,8 +46,8 @@ In addition, it is impossible to remember them all, given the huge number of eve
     * [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - EVTX samples recorded during attack simulations by sbousseaden
     * [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#) - Logs analyzed after tool execution by JPCERT
 * RDP
-    * [RPD Logon / Logoff events 1](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/) - RDP event chain by Jonathon Poling
-    * [RPD Logon / Logoff events 2](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/) - RDP deep dive on 1149 by Mike Cary
+    * [RDP Logon / Logoff events 1](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/) - RDP event chain by Jonathon Poling
+    * [RDP Logon / Logoff events 2](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/) - RDP deep dive on 1149 by Mike Cary
 
 ## Contributing
 
