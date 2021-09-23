@@ -2,16 +2,16 @@
 
 > Collection of Event ID ressources useful for Digital Forensics and Incident Response
 
-In incidents, analysts are often faced with the problem of interpreting unknown event ids.
+In incidents, analysts are often faced with the problem of interpreting unknown event IDs.
 The event itself does not always contain the desired information.
-In addition, it is impossible to remember them all, given the huge number of event ids and log sources.
+In addition, it is impossible to remember them all, given the huge number of event IDs and log sources.
 
 ## Contents
 
 - [Event ID databases](#event-id-databases)
 - [Event ID documentation](#event-id-documentation)
 - [Event ID configuration and monitoring suggestions](#event-id-configuration-and-monitoring-suggestions)
-- [Event ID attack results](#event-id-attack-results)
+- [Event ID analysis](#event-id-analysis)
 
 ## Ressources
 
@@ -40,7 +40,22 @@ In addition, it is impossible to remember them all, given the huge number of eve
     * [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing
     * [Configuration by olafhartong](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
-### Event ID attack results
+### Event ID analysis
 
-* [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Repository with samples by sbousseaden
-* [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#) - Interactive sheet by JPCERT
+* General
+    * [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - EVTX samples recorded during attack simulations by sbousseaden
+    * [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#) - Logs analyzed after tool execution by JPCERT
+* RDP
+    * [RPD Logon / Logoff events 1](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/) - RDP event chain by Jonathon Poling
+    * [RPD Logon / Logoff events 2](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/) - RDP deep dive on 1149 by Mike Cary
+
+## Contributing
+
+This repo is dedicated to everything that has an event ID and the knowledge about it.
+Please ask yourself before submitting a PR if it really fits to this.
+In particular, please do not contribute tools, as these are already comprehensively summarized in the following great repositories.
+
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
+* [awesome-forensics](https://github.com/cugu/awesome-forensics)
+* [awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools)
+* [awesome-security](https://github.com/sbilly/awesome-security)
