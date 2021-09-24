@@ -33,13 +33,27 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 * PowerShell
     * [Script block logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.1#viewing-the-powershell-event-log-entries-on-windows) - Enable 4104
+    * [Malware Archeology PowerShell Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-PowerShell-Logging-Cheat-Sheet-ver-Sept-2018-v22.pdf)
+    
 * Security Auditing
     * [Command line process auditing](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/command-line-process-auditing#configuration) - Enable 4688 featuring command line
     * [Events to monitor](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) - Official resource
+    * [Monitoring gguidance](https://github.com/JSCU-NL/logging-essentials) - Event monitoring guidance from JSCU (Joint SIGINT Cyber Unit) from Netherlands. With  volume estimates, and WEC/WEF configurations.
+    * [Malware Archeology Windows Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-Logging-Cheat-Sheet_ver_Feb_2019.pdf)
+    * [Malware Archeology Advanced Windows Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-Advanced-Logging-Cheat-Sheet_ver_Feb_2019_v12.pdf)
+    * [Malware Archeology Splunk Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-Splunk-Logging-Cheat-Sheet-v222.pdf) - about specific exclusions to avoid getting noise from the Splunk Universal Forwarder agent.
+    * [Malware Archeology File Auditing Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-File-Auditing-Cheat-Sheet-ver-Nov-2017-3fwr.pdf)
+    * [Malware Archeology Registry Auditing Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-Registry-Auditing-Cheat-Sheet-ver-Aug-2019.pdf)
+    * [Malware Archeology ATT&CK Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-ATTCK_Logging-Cheat-Sheet_ver_Sept_2018.pdf) - From 2018.
+    * [US NSA Spotting the Adversary with Windows Event Log Monitoring](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/assets/public/upload/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf) - Covers quite a lot of ground.
+        * [US NSA Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) - Companion repository with WEF configurations, scripts to configure WEF, and WEB subscriptions in XML format.
+    * [UK NCSC - Logging Made Easy WEC (Windows Event Collection) configuration file](https://github.com/ukncsc/lme/blob/master/Chapter%201%20Files/lme_wec_config.xml)
+
 * Sysmon
     * [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing
+        * [Fork of SwiftOnSecurity by Neo23x0 Florian ROTH](https://github.com/Neo23x0/sysmon-config) - Same as above, with all PR 
     * [Configuration by olafhartong](https://github.com/olafhartong/sysmon-modular) - A repository of Sysmon configuration modules
-    * [Configuration by Florian Roth](https://github.com/Neo23x0/sysmon-config) - A fork of SwiftonSecurity's Sysmon Config, linked above
+    * [Malware Archeology Sysmon Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-Sysmon-Logging-Cheat-Sheet_Jan_2020-g7sl.pdf)
 
 ### Event ID analysis
 
