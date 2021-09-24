@@ -34,7 +34,6 @@ In addition, it is impossible to remember them all, given the huge number of eve
 * PowerShell
     * [Script block logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.1#viewing-the-powershell-event-log-entries-on-windows) - Enable 4104
     * [Malware Archeology PowerShell Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-PowerShell-Logging-Cheat-Sheet-ver-Sept-2018-v22.pdf)
-    
 * Security Auditing
     * [Command line process auditing](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/command-line-process-auditing#configuration) - Enable 4688 featuring command line
     * [Events to monitor](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) - Official resource
@@ -48,6 +47,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
     * [US NSA Spotting the Adversary with Windows Event Log Monitoring](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/assets/public/upload/Spotting-the-Adversary-with-Windows-Event-Log-Monitoring.pdf) - Covers quite a lot of ground.
         * [US NSA Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) - Companion repository with WEF configurations, scripts to configure WEF, and WEB subscriptions in XML format.
     * [UK NCSC - Logging Made Easy WEC (Windows Event Collection) configuration file](https://github.com/ukncsc/lme/blob/master/Chapter%201%20Files/lme_wec_config.xml)
+    * [Windows Security Monitoring - Policy & Event IDs](https://docs.google.com/spreadsheets/d/1BhR3cymZ53ZJfJdKAGKszuB-jgsr8GBJBOCJl50WGKE/edit?usp=sharing) - Spreadsheet with recommendations sorted by system functions
 
 * Sysmon
     * [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing
