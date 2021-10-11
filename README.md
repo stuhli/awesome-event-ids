@@ -23,7 +23,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 ### Event ID documentation
 
-* [Kaspersky Security for Microsoft Exchange](https://support.kaspersky.com/KS4Exchange/9.6/en-US/22779.htm) - Official resource
+* [Kaspersky Security for Microsoft Exchange](https://support.kaspersky.com/KS4Exchange/9.6/en-US/127197.htm) - Official resource
 * [Microsoft Defender Antivirus](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-event-ids) - Official resource
 * [Microsoft Windows Security Auditing](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview) - Official resource
 * [Microsoft Windows Security Auditing by Randy Franklin Smith](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/) - Better known as _Ultimate Windows Security_
