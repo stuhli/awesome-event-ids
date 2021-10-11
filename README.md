@@ -23,7 +23,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 ### Event ID documentation
 
-* [Kaspersky Security for Microsoft Exchange](https://support.kaspersky.com/KS4Exchange/9.4/en-US/127197.htm) - Official resource
+* [Kaspersky Security for Microsoft Exchange](https://support.kaspersky.com/KS4Exchange/9.6/en-US/127197.htm) - Official resource
 * [Microsoft Defender Antivirus](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-event-ids) - Official resource
 * [Microsoft Windows Security Auditing](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview) - Official resource
 * [Microsoft Windows Security Auditing by Randy Franklin Smith](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/) - Better known as _Ultimate Windows Security_
@@ -32,6 +32,9 @@ In addition, it is impossible to remember them all, given the huge number of eve
 * [Symantec Endpoint Protection 14.0.X](https://knowledge.broadcom.com/external/article/170359/endpoint-protection-140x-event-log-entri.html) - Official resource
 * [Symantec Endpoint Protection Manager](https://knowledge.broadcom.com/external/article/157017/endpoint-protection-manager-event-log-en.html) - Official resource
 * [Symantec EDR 4.6](https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/endpoint-detection-and-response/4-6/search-fields-and-descriptions-v126755396-d38e59231/event-summary-type-ids-v121987556-d38e58861.html) - Official resource
+* [McAfee VirusScan Enterprise 8.x](https://kc.mcafee.com/corporate/index?page=content&id=KB54827) - VirusScan Enterprise entries in the Windows Application Event Log (Official resource)
+* [Compilation of Event IDs](http://www.chicagotech.net/wineventid.htm) - Collection of event IDs from 1 to 9999 and above
+* [Events and Errors - Windows Server 2008](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc754424(v=ws.10)) - Collection of event IDs from different windows event source. Applies to Windows Server 2008 and similar. (Official resource)
 
 ### Event ID configuration and monitoring suggestions
 
