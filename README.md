@@ -27,7 +27,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 * [Microsoft Defender Antivirus](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-event-ids) - Official resource
 * [Microsoft Windows Security Auditing](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview) - Official resource
 * [Microsoft Windows Security Auditing by Randy Franklin Smith](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/) - Better known as _Ultimate Windows Security_
-* [Noteable Event IDs](https://github.com/TonyPhipps/SIEM/blob/master/Notable-Event-IDs.md) - Collection of common event IDs with descriptions
+* [Notable Event IDs](https://github.com/TonyPhipps/SIEM/blob/master/Notable-Event-IDs.md) - Collection of common event IDs with descriptions
 * [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon#events) - Official resource
 * [Symantec Endpoint Protection 14.0.X](https://knowledge.broadcom.com/external/article/170359/endpoint-protection-140x-event-log-entri.html) - Official resource
 * [Symantec Endpoint Protection Manager](https://knowledge.broadcom.com/external/article/157017/endpoint-protection-manager-event-log-en.html) - Official resource
@@ -36,7 +36,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 ### Event ID configuration and monitoring suggestions
 
 * General
-    * [SIEM Tactics, Techiques, and Procedures](https://github.com/TonyPhipps/SIEM) - Comprehensive SIEM resources be TonyPhipps
+    * [SIEM Tactics, Techniques, and Procedures](https://github.com/TonyPhipps/SIEM) - Comprehensive SIEM resources be TonyPhipps
 * PowerShell
     * [Script block logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.1#viewing-the-powershell-event-log-entries-on-windows) - Enable 4104
     * [Malware Archeology PowerShell Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-PowerShell-Logging-Cheat-Sheet-ver-Sept-2018-v22.pdf)
