@@ -44,6 +44,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 - General
   - [SIEM Tactics, Techniques, and Procedures](https://github.com/TonyPhipps/SIEM) - Comprehensive SIEM resources be TonyPhipps.
+  - [Windows Auditing Mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different Windows auditing capacities and event log files.
 - PowerShell
   - [Script Block Logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.1#viewing-the-powershell-event-log-entries-on-windows) - Enable 4104.
   - [Module Logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_group_policy_settings?view=powershell-7.1#turn-on-module-logging)
