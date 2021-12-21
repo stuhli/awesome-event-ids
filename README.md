@@ -50,6 +50,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [Module Logging](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_group_policy_settings?view=powershell-7.1#turn-on-module-logging)
   - [Malware Archeology PowerShell Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-PowerShell-Logging-Cheat-Sheet-ver-Sept-2018-v22.pdf)
   - [Greater Visibility Through PowerShell Logging](https://www.mandiant.com/resources/greater-visibilityt)
+  - [PowerShell Logging for the Blue Team](https://www.blackhillsinfosec.com/powershell-logging-blue-team/)
 - Security Auditing
   - [Command line Process Auditing](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/command-line-process-auditing#configuration) - Enable 4688 featuring command line.
   - [Events to Monitor](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) - Official resource.
@@ -65,6 +66,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [UK NCSC - Logging Made Easy WEC (Windows Event Collection) Configuration File](https://github.com/ukncsc/lme/blob/master/Chapter%201%20Files/lme_wec_config.xml)
   - [Windows Security Monitoring - Policy & Event IDs](https://docs.google.com/spreadsheets/d/1BhR3cymZ53ZJfJdKAGKszuB-jgsr8GBJBOCJl50WGKE/edit?usp=sharing) - Spreadsheet with recommendations sorted by system functions.
   - [EventID Policy Map](https://docs.google.com/spreadsheets/d/16WuMNL5WWjE4YJIKrt1ut3fZWTbPPKnAGBjGilLrzBE/edit#gid=1714197816) - Spreadsheet with policy map as well as reference collection.
+  - [Windows security event log library](https://www.manageengine.com/products/active-directory-audit/kb/windows-event-log-id-list.html) - Small database with explanations and monitoring suggestions.
 
 - Sysmon
   - [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing.
@@ -80,9 +82,13 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#) - Logs analyzed after tool execution by JPCERT.
   - [EvtxECmd Map Repository](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) - Maps used by Eric Zimmerman's EvtxECmd which provide examples of Event IDs with documentation, lookup tables, and important values within each respective event ID which are parsed by EvtxECmd using the associated Map.
   - [Event Log Observer](https://lizard-labs.com/event_log_observer.aspx) - View, analyze and monitor events recorded in Microsoft Windows event logs.
+- PowerShell
+  - [Attack and Defense Around PowerShell Event Logging](https://nsfocusglobal.com/attack-and-defense-around-powershell-event-logging/) - PowerShell logging deep dive from different perspectives by Mina Hao.
 - RDP
   - [RDP Logon / Logoff events 1](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/) - RDP event chain by Jonathon Poling.
   - [RDP Logon / Logoff events 2](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/) - RDP deep dive on 1149 by Mike Cary.
+- Task Scheduler
+  - [Common Task Scheduler Event IDs](https://www.cyprich.com/blog/2017/03/29/common-task-scheduler-event-ids/) - List of the most common Event IDs for Windows Scheduled Tasks by djc.
 
 ## Contributing
 
