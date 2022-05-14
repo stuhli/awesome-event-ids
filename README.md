@@ -79,6 +79,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 - General
   - [EVTX Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - EVTX samples recorded during attack simulations by sbousseaden.
+  - [EVTX-to-MITRE-Attack)](https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack) - More than 250 EVTX samples matched to MITRE TTPs provided by [mdecrevoisier](https://twitter.com/mdecrevoisier)
   - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#) - Logs analyzed after tool execution by JPCERT.
   - [EvtxECmd Map Repository](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) - Maps used by Eric Zimmerman's EvtxECmd which provide examples of Event IDs with documentation, lookup tables, and important values within each respective event ID which are parsed by EvtxECmd using the associated Map.
   - [Event Log Observer](https://lizard-labs.com/event_log_observer.aspx) - View, analyze and monitor events recorded in Microsoft Windows event logs.
