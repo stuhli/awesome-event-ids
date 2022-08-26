@@ -22,8 +22,8 @@ In addition, it is impossible to remember them all, given the huge number of eve
 ### Event ID databases
 
 - [EventID.net](http://www.eventid.net/search.asp) - Database
-- [MyEventlog.com](https://www.myeventlog.com/) - Database
 - [EventTracker Knowledgebase](https://kb.eventtracker.com/) - Database
+- [MyEventlog.com](https://www.myeventlog.com/) - Database
 
 ### Event ID documentation
 
