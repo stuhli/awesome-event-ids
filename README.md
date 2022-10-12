@@ -35,7 +35,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon#events) - Official resource.
 - [Symantec Endpoint Protection 14.0.X](https://knowledge.broadcom.com/external/article/170359/endpoint-protection-140x-event-log-entri.html) - Official resource.
 - [Symantec Endpoint Protection Manager](https://knowledge.broadcom.com/external/article/157017/endpoint-protection-manager-event-log-en.html) - Official resource.
-- [McAfee VirusScan Enterprise 8.x](https://kc.mcafee.com/corporate/index?page=content&id=KB54827) - VirusScan Enterprise entries in the Windows Application Event Log (Official resource).
+- [McAfee VirusScan Enterprise 8.x](https://kcm.trellix.com/corporate/index?page=content&id=KB54827) - VirusScan Enterprise entries in the Windows Application Event Log (Official resource).
 - [Compilation of Event IDs](http://www.chicagotech.net/wineventid.htm) - Collection of event IDs from 1 to 9999 and above.
 - [Events and Errors - Windows Server 2008](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc754424(v=ws.10)) - Collection of event IDs from different windows event source. Applies to Windows Server 2008 and similar. (Official resource)
 - [Finding Forensic Goodness In Obscure Windows Event Logs](https://nasbench.medium.com/finding-forensic-goodness-in-obscure-windows-event-logs-60e978ea45a3) - List of lesser-known Event IDs.
