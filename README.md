@@ -67,7 +67,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [Windows Security Monitoring - Policy & Event IDs](https://docs.google.com/spreadsheets/d/1BhR3cymZ53ZJfJdKAGKszuB-jgsr8GBJBOCJl50WGKE/edit?usp=sharing) - Spreadsheet with recommendations sorted by system functions.
   - [EventID Policy Map](https://docs.google.com/spreadsheets/d/16WuMNL5WWjE4YJIKrt1ut3fZWTbPPKnAGBjGilLrzBE/edit#gid=1714197816) - Spreadsheet with policy map as well as reference collection.
   - [Windows security event log library](https://www.manageengine.com/products/active-directory-audit/kb/windows-event-log-id-list.html) - Small database with explanations and monitoring suggestions.
-
+  - [Yamato Security's Ultimate Windows Event Log Configuration Guide For DFIR And Threat Hunting](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - Sysmon
   - [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing.
     - [Fork of SwiftOnSecurity by Neo23x0 Florian ROTH](https://github.com/Neo23x0/sysmon-config) - Same as above, with all PR.
