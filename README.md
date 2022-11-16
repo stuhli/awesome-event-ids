@@ -67,7 +67,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [Windows Security Monitoring - Policy & Event IDs](https://docs.google.com/spreadsheets/d/1BhR3cymZ53ZJfJdKAGKszuB-jgsr8GBJBOCJl50WGKE/edit?usp=sharing) - Spreadsheet with recommendations sorted by system functions.
   - [EventID Policy Map](https://docs.google.com/spreadsheets/d/16WuMNL5WWjE4YJIKrt1ut3fZWTbPPKnAGBjGilLrzBE/edit#gid=1714197816) - Spreadsheet with policy map as well as reference collection.
   - [Windows security event log library](https://www.manageengine.com/products/active-directory-audit/kb/windows-event-log-id-list.html) - Small database with explanations and monitoring suggestions.
-
+  - [Yamato Security's Ultimate Windows Event Log Configuration Guide For DFIR And Threat Hunting](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - Sysmon
   - [Configuration by SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config) - Configuration file template with default high-quality event tracing.
     - [Fork of SwiftOnSecurity by Neo23x0 Florian ROTH](https://github.com/Neo23x0/sysmon-config) - Same as above, with all PR.
@@ -90,6 +90,8 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [RDP Logon / Logoff events 2](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/) - RDP deep dive on 1149 by Mike Cary.
 - Task Scheduler
   - [Common Task Scheduler Event IDs](https://www.cyprich.com/blog/2017/03/29/common-task-scheduler-event-ids/) - List of the most common Event IDs for Windows Scheduled Tasks by djc.
+- Windows Remote Command Execution
+  - [Traces of Windows remote command execution ](https://www.synacktiv.com/en/publications/traces-of-windows-remote-command-execution.html) - Blogpost focused on remote command execution techniques used by attackers and read teamers and detailed logging recommendations.
 
 ## Contributing
 
