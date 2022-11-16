@@ -92,6 +92,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [Common Task Scheduler Event IDs](https://www.cyprich.com/blog/2017/03/29/common-task-scheduler-event-ids/) - List of the most common Event IDs for Windows Scheduled Tasks by djc.
 - Windows Remote Command Execution
   - [Traces of Windows remote command execution ](https://www.synacktiv.com/en/publications/traces-of-windows-remote-command-execution.html) - Blogpost focused on remote command execution techniques used by attackers and read teamers and detailed logging recommendations.
+
 ## Contributing
 
 This repo is dedicated to everything that has an event ID and the knowledge about it.
