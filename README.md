@@ -89,7 +89,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [RDP Logon / Logoff events 1](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/) - RDP event chain by Jonathon Poling.
   - [RDP Logon / Logoff events 2](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/) - RDP deep dive on 1149 by Mike Cary.
 - Task Scheduler
-  - [Common Task Scheduler Event IDs](https://www.cyprich.com/blog/2017/03/29/common-task-scheduler-event-ids/) - List of the most common Event IDs for Windows Scheduled Tasks by djc.
+  - [Common Task Scheduler Event IDs](https://media.ultraspark.ca/blog/2017/03/29/common-task-scheduler-event-ids/) - List of the most common Event IDs for Windows Scheduled Tasks by djc.
 - Windows Remote Command Execution
   - [Traces of Windows remote command execution ](https://www.synacktiv.com/en/publications/traces-of-windows-remote-command-execution.html) - Blogpost focused on remote command execution techniques used by attackers and read teamers and detailed logging recommendations.
 
