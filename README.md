@@ -43,6 +43,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 ### Event ID configuration and monitoring suggestions
 
 - General
+  - [Audit Policy Recommendations](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations) - Audit Policy Recommendations by Microsoft.
   - [SIEM Tactics, Techniques, and Procedures](https://github.com/TonyPhipps/SIEM) - Comprehensive SIEM resources be TonyPhipps.
   - [Windows Auditing Mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap) - Set of Mindmaps providing a detailed overview of the different Windows auditing capacities and event log files.
 - PowerShell
@@ -83,6 +84,10 @@ In addition, it is impossible to remember them all, given the huge number of eve
   - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#) - Logs analyzed after tool execution by JPCERT.
   - [EvtxECmd Map Repository](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) - Maps used by Eric Zimmerman's EvtxECmd which provide examples of Event IDs with documentation, lookup tables, and important values within each respective event ID which are parsed by EvtxECmd using the associated Map.
   - [Event Log Observer](https://lizard-labs.com/event_log_observer.aspx) - View, analyze and monitor events recorded in Microsoft Windows event logs.
+  - [Splunk advanced input configuration for Windows](https://github.com/mdecrevoisier/Splunk-input-windows-baseline) - Provides an advanced input.conf file for Windows and 3rd party related software with more than 70 different event log mapped to the MITRE Att&CK.
+  - [Windows Security Event ID Helper](https://github.com/qbrusa/Windows-Security-Event-ID-Helper) - [_Work in progress_] Will allow you to filter on each GPO setting and display all Event IDs produced by it.
+- Antivirus
+  - [Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2023/01/20/antivirus-event-analysis-cheat-sheet-v1-12-0/) - Antivirus Event Analysis Cheat Sheet.
 - PowerShell
   - [Attack and Defense Around PowerShell Event Logging](https://nsfocusglobal.com/attack-and-defense-around-powershell-event-logging/) - PowerShell logging deep dive from different perspectives by Mina Hao.
 - RDP
