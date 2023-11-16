@@ -1,5 +1,7 @@
 name: Check URLs
-on: [pull_request, push]
+on:
+  pull_request:
+  push:
 
 jobs:
   check-urls:
