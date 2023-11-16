@@ -3,7 +3,7 @@ on:
   pull_request:
   push:
   schedule:
-    - cron: '55 16,17,18,19,20 * * *'
+    - cron: '25 4 * * 3,6'
 
 jobs:
   check-urls:
