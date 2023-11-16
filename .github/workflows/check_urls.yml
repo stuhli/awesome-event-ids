@@ -2,6 +2,8 @@ name: Check URLs
 on:
   pull_request:
   push:
+  schedule:
+    - cron: '50 18 * * *'
 
 jobs:
   check-urls:
