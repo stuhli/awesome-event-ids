@@ -1,0 +1,17 @@
+name: Check URLs
+on:
+  pull_request:
+  push:
+  schedule:
+    - cron: '25 4 * * 3,6'
+
+jobs:
+  check-urls:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: urlstechie/urlchecker-action@master
+      with:
+        file_types: .md
