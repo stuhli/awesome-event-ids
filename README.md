@@ -21,7 +21,6 @@ In addition, it is impossible to remember them all, given the huge number of eve
 
 ### Event ID databases
 
-- [EventID.net](http://www.eventid.net/search.asp) - Database
 - [EventTracker Knowledgebase](https://kb.eventtracker.com/) - Database
 - [MyEventlog.com](https://www.myeventlog.com/) - Database
 
@@ -96,7 +95,7 @@ In addition, it is impossible to remember them all, given the huge number of eve
 - SMB
   - [SMB error events (local collection)](event_ids/smb.md#smb-error-events)
 - Task Scheduler
-  - [Common Task Scheduler Event IDs](https://media.ultraspark.ca/blog/2017/03/29/common-task-scheduler-event-ids/) - List of the most common Event IDs for Windows Scheduled Tasks by djc.
+  - [Task Scheduler Event IDs](https://mnaoumov.wordpress.com/2014/05/15/task-scheduler-event-ids/) - List of the most common Event IDs for Windows Scheduled Tasks by mnaoumov.
 - Windows Remote Command Execution
   - [Traces of Windows remote command execution ](https://www.synacktiv.com/en/publications/traces-of-windows-remote-command-execution.html) - Blogpost focused on remote command execution techniques used by attackers and read teamers and detailed logging recommendations.
 
