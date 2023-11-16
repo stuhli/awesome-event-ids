@@ -11,4 +11,3 @@ jobs:
     - uses: urlstechie/urlchecker-action@master
       with:
         file_types: .md
-        exclude_files: 'dfirtrack_main/tests/'
