@@ -1,5 +1,7 @@
 # Awesome Event IDs
 
+[![Check URLs](https://github.com/stuhli/awesome-event-ids/actions/workflows/check_urls.yml/badge.svg)](https://github.com/stuhli/awesome-event-ids/actions/workflows/check_urls.yml)
+
 > Collection of Event ID resources useful for Digital Forensics and Incident Response
 
 In incidents, analysts are often faced with the problem of interpreting unknown event IDs.
